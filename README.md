@@ -1,4 +1,4 @@
-#DRAFT
+# DRAFT
 
 Still drinking from the firehose, but if we can figure out how to efficiently utilize and also track IPFS chunk retrieval, building better podcasting architecture that skips from RSS straight to decentralized might be possible. Publisher metrics around user engagement are also antiquated today, limited to coarse numbers like "subscribers", "downloads" and promo-code click-through's. 
 
@@ -21,7 +21,7 @@ More interesting specs, possibly exposing my IPFS/IPLD naivite here:
 * Display abandonment timing/location to publishers
 * Is there something about IPFS that will unlock virality/social?
 
-##Version 2
+## Version 2
 * Discovery based on tags above and publishers and guests
 * Publisher and guest linking
 * Server "push" publication 
