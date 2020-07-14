@@ -16,8 +16,7 @@ Mulling this over still, but some elementary specifications would be:
 More interesting specs, possibly exposing my IPFS/IPLD naivite here:
 
 * Link play-clock with IPFS chunks for playback editing
-* Using above link to enable interstitial CID's (i.e. ads/promos)
-* Swapping interstitials "on the fly"
+* Use above feature to add new content "in the middle" of the episode
 * For native player, track chunk retrieval to measure user abandonment
 * Display abandonment timing/location to publishers
 * Is there something about IPFS that will unlock virality/social?
