@@ -19,7 +19,6 @@ More interesting specs, possibly exposing my IPFS/IPLD naivite here:
 * Use above feature to add new content "in the middle" of the episode
 * For native player, track chunk retrieval to measure user abandonment
 * Display abandonment timing/location to publishers
-* Is there something about IPFS that will unlock virality/social?
 
 ## Version 2
 * Discovery based on tags above and publishers and guests
@@ -32,3 +31,6 @@ More interesting specs, possibly exposing my IPFS/IPLD naivite here:
 * Automated filecoin storage
 * App store version, enabling nice things like "don't interrupt me"
 * Explore offline classroom opportunities (not necessarily the tool?)
+
+## Rambling Thoughts
+* Is there something native to IPFS that will unlock virality/social?
