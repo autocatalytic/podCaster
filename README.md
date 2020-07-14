@@ -26,7 +26,6 @@ More interesting specs, possibly exposing my IPFS/IPLD naivite here:
 * Discovery based on tags above and publishers and guests
 * Publisher and guest linking
 * Server "push" publication 
-* Automatic transcriptions
 * Selective content pinning based on utilization
 * Rating system for shows, episodes, guests, etc.
 * Ad market if interstitial injection works
