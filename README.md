@@ -1,4 +1,5 @@
-# DRAFT
+# README
+## Draft July 13, 2020
 
 Still drinking from the firehose, but if we can figure out how to efficiently utilize and also track IPFS chunk retrieval, building better podcasting architecture that skips from RSS straight to decentralized might be possible. Publisher metrics around user engagement are also antiquated today, limited to coarse numbers like "subscribers", "downloads" and promo-code click-through's. 
 
